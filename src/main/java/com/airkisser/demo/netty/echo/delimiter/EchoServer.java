@@ -57,7 +57,6 @@ public class EchoServer {
                 port = Integer.valueOf(args[0]);
             } catch (NumberFormatException e) {
                 e.printStackTrace();
-                System.exit(1);
             }
         }
         new EchoServer().bind(port);
