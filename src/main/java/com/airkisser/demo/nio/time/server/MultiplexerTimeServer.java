@@ -1,4 +1,4 @@
-package com.airkisser.demo.nio.time_server;
+package com.airkisser.demo.nio.time.server;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

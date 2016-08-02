@@ -1,4 +1,4 @@
-package com.airkisser.demo.nio.time_client;
+package com.airkisser.demo.nio.time.client;
 
 /**
  * Created by AIR on 2016/8/2.

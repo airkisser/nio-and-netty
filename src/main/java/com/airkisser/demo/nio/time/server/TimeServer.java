@@ -1,4 +1,4 @@
-package com.airkisser.demo.nio.time_server;
+package com.airkisser.demo.nio.time.server;
 
 /**
  * 多客户端异步查询时间的服务
